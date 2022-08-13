@@ -11,12 +11,9 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 - 13 input
 - 1 output 😎
 
-![predict web page](images/a1.png)
-
+![predict web page](images/a1.png) ![predict web page](images/a2.png)
+ 
 # prediction 
-
-![predict web page](images/a2.png)
-
 
 # how run model 😎
 - Download All Requirements
