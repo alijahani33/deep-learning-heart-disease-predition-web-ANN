@@ -23,3 +23,9 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 - http://127.0.0.1:5000/hdisease open in your browser
 - enter inputs
 - and get predition 😎😉
+
+# CLI Usage
+
+- run 'python main.py'
+- enter 13 input : TYPE DATAFRAME
+- get result
