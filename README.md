@@ -16,3 +16,11 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 # prediction 
 
 ![predict web page](images/a2.png)
+
+
+# how run model 😎
+- Download All Requirements
+- run 'python hd_flask.py' in cmd
+- http://127.0.0.1:5000/hdisease open in your browser
+- enter inputs
+- and get predition 😎😉
