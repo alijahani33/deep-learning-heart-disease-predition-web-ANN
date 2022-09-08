@@ -29,3 +29,8 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 - run 'python main.py'
 - enter 13 input : TYPE DATAFRAME
 - get result
+
+# RUN ipynb IN COLAB
+- go to google colab website
+- upload ipynb file 
+- run
