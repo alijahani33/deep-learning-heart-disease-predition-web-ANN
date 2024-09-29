@@ -7,9 +7,9 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 - html
 - flask
 
-# model predict web page 🤩
+# model predict web page 
 - 13 input
-- 1 output 😎
+- 1 output 
 
 ![predict web page](images/a1.png)  
  
@@ -17,12 +17,12 @@ AI model for prediction heart disease web app (pytorch , flask , python)
 ![predict web page](images/a2.png) 
 
 
-# how run model 😎
+# how run model 
 - Download All Requirements
 - run 'python hd_flask.py' in cmd
 - http://127.0.0.1:5000/hdisease open in your browser
 - enter inputs
-- and get predition 😎😉
+- and get predition 
 
 # CLI Usage
 
